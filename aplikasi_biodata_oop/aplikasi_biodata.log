@@ -1,0 +1,107 @@
+2025-09-13 23:21:43 - INFO - Aplikasi dimulai
+2025-09-13 23:22:17 - INFO - Login attempt for username: admin
+2025-09-13 23:22:17 - INFO - Successful login: admin
+2025-09-13 23:22:38 - INFO - Application closed by user: admin
+2025-09-13 23:23:43 - INFO - Aplikasi dimulai
+2025-09-13 23:23:52 - INFO - Login attempt for username: admin
+2025-09-13 23:23:52 - INFO - Successful login: admin
+2025-09-13 23:24:00 - INFO - User logout: admin
+2025-09-13 23:24:15 - INFO - Application closed by user: None
+2025-09-13 23:24:51 - INFO - Aplikasi dimulai
+2025-09-13 23:25:05 - INFO - Login attempt for username: user1
+2025-09-13 23:25:05 - INFO - Successful login: user1
+2025-09-13 23:25:09 - INFO - Application closed by user: user1
+2025-09-13 23:31:12 - INFO - Aplikasi dimulai
+2025-09-13 23:31:19 - INFO - Application closed by user: None
+2025-09-13 23:31:54 - INFO - Aplikasi dimulai
+2025-09-13 23:32:06 - INFO - Login attempt for username: admin
+2025-09-13 23:32:06 - INFO - Successful login: admin
+2025-09-13 23:33:06 - INFO - User logout: admin
+2025-09-13 23:33:24 - INFO - Login attempt for username: 
+2025-09-13 23:33:24 - WARNING - Empty credentials on login
+2025-09-13 23:35:47 - INFO - Application closed by user: None
+2025-09-13 23:38:05 - INFO - Aplikasi dimulai
+2025-09-13 23:38:13 - INFO - Login attempt for username: admin
+2025-09-13 23:38:13 - INFO - Successful login: admin
+2025-09-13 23:39:10 - INFO - User logout: admin
+2025-09-13 23:39:17 - INFO - Login attempt for username: admin
+2025-09-13 23:39:17 - INFO - Successful login: admin
+2025-09-13 23:39:49 - INFO - Application closed by user: admin
+2025-09-13 23:40:18 - INFO - Aplikasi dimulai
+2025-09-13 23:41:28 - INFO - Application closed by user: None
+2025-09-13 23:47:54 - INFO - Aplikasi dimulai
+2025-09-13 23:48:09 - INFO - Login attempt for username: admin
+2025-09-13 23:48:09 - INFO - Successful login: admin
+2025-09-13 23:49:27 - INFO - Application closed by user: admin
+2025-09-13 23:49:56 - INFO - Aplikasi dimulai
+2025-09-13 23:50:19 - INFO - Login attempt for username: admin
+2025-09-13 23:50:19 - INFO - Successful login: admin
+2025-09-13 23:57:56 - INFO - Application closed by user: admin
+2025-09-13 23:57:59 - INFO - Aplikasi dimulai
+2025-09-13 23:58:09 - INFO - Login attempt for username: admin
+2025-09-13 23:58:09 - INFO - Successful login: admin
+2025-09-13 23:59:14 - INFO - Application closed by user: admin
+2025-09-13 23:59:15 - INFO - Aplikasi dimulai
+2025-09-13 23:59:22 - INFO - Login attempt for username: admin
+2025-09-13 23:59:22 - INFO - Successful login: admin
+2025-09-13 23:59:26 - INFO - Application closed by user: admin
+2025-09-14 00:00:48 - INFO - Aplikasi dimulai
+2025-09-14 00:00:56 - INFO - Login attempt for username: admin
+2025-09-14 00:00:56 - INFO - Successful login: admin
+2025-09-14 00:01:29 - INFO - Application closed by user: admin
+2025-09-14 00:05:58 - INFO - Aplikasi dimulai
+2025-09-14 00:06:04 - INFO - Login attempt for username: admin
+2025-09-14 00:06:04 - INFO - Successful login: admin
+2025-09-14 00:06:19 - INFO - Application closed by user: admin
+2025-09-14 00:17:32 - INFO - Aplikasi dimulai
+2025-09-14 00:17:39 - INFO - Login attempt for username: admin
+2025-09-14 00:17:39 - INFO - Successful login: admin
+2025-09-14 00:20:07 - INFO - Application closed by user: admin
+2025-09-14 00:20:10 - INFO - Aplikasi dimulai
+2025-09-14 00:20:15 - INFO - Login attempt for username: admin
+2025-09-14 00:20:15 - INFO - Successful login: admin
+2025-09-14 00:20:26 - INFO - Application closed by user: admin
+2025-09-14 00:31:51 - INFO - Aplikasi dimulai
+2025-09-14 00:32:01 - INFO - Login attempt for username: admin
+2025-09-14 00:32:01 - INFO - Successful login: admin
+2025-09-14 00:33:45 - INFO - Data submitted by user: admin - NIM: 23106050004
+2025-09-14 00:33:50 - INFO - Data submitted by user: admin - NIM: 23106050004
+2025-09-14 00:33:56 - INFO - Data submitted by user: admin - NIM: 23106050004
+2025-09-14 00:34:16 - INFO - Application closed by user: admin
+2025-09-14 00:37:37 - INFO - Aplikasi dimulai
+2025-09-14 00:37:50 - INFO - Login attempt for username: admin
+2025-09-14 00:37:50 - INFO - Successful login: admin
+2025-09-14 00:43:54 - INFO - Application closed by user: admin
+2025-09-14 00:44:00 - INFO - Aplikasi dimulai
+2025-09-14 00:44:09 - INFO - Login attempt for username: admin
+2025-09-14 00:44:09 - INFO - Successful login: admin
+2025-09-14 00:48:43 - INFO - Application closed by user: admin
+2025-09-14 00:48:48 - INFO - Aplikasi dimulai
+2025-09-14 00:48:51 - INFO - Login attempt for username: 
+2025-09-14 00:48:51 - WARNING - Empty credentials on login
+2025-09-14 00:49:00 - INFO - Login attempt for username: admin
+2025-09-14 00:49:00 - INFO - Successful login: admin
+2025-09-14 00:53:15 - INFO - Application closed by user: admin
+2025-09-14 00:53:20 - INFO - Aplikasi dimulai
+2025-09-14 00:53:29 - INFO - Login attempt for username: admin
+2025-09-14 00:53:29 - INFO - Successful login: admin
+2025-09-14 00:54:56 - INFO - Data submitted by user: admin - NIM: 23106050013
+2025-09-14 00:57:56 - INFO - Application closed by user: admin
+2025-09-14 00:58:02 - INFO - Aplikasi dimulai
+2025-09-14 00:58:11 - INFO - Login attempt for username: admin
+2025-09-14 00:58:11 - INFO - Successful login: admin
+2025-09-14 01:00:57 - INFO - Application closed by user: admin
+2025-09-14 01:01:02 - INFO - Aplikasi dimulai
+2025-09-14 01:01:11 - INFO - Login attempt for username: admin
+2025-09-14 01:01:11 - INFO - Successful login: admin
+2025-09-14 01:01:26 - INFO - Application closed by user: admin
+2025-09-14 01:01:30 - INFO - Aplikasi dimulai
+2025-09-14 01:01:37 - INFO - Login attempt for username: admin
+2025-09-14 01:01:37 - INFO - Successful login: admin
+2025-09-14 01:02:34 - INFO - Application closed by user: admin
+2025-09-14 01:04:13 - INFO - Aplikasi dimulai
+2025-09-14 01:04:33 - INFO - Login attempt for username: admin
+2025-09-14 01:04:33 - INFO - Successful login: admin
+2025-09-14 01:04:48 - INFO - Application closed by user: admin
+2025-09-23 19:49:01 - INFO - Aplikasi dimulai
+2025-09-23 19:49:21 - INFO - Application closed by user: None
